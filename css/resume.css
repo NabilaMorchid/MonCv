@@ -8,13 +8,21 @@ html{
 }
 
 body{
-  background-color: #777;
+  background-color: #E1F6F3;
+border-style:double;
+margin-left: 250px;
+margin-right: 250px;
+height: 2200px
+
 }
 
 div#wrapper{
 max-width: 900px;
 min-width: 320px;
 margin: auto;
+top: 400px;
+left: 300px;
+position: absolute;
 }
 header img {
   float: right;
@@ -22,5 +30,37 @@ header img {
   border-radius: 3px;
   background-color:white;
   box-shadow:   2px 4px rgba(0,0,0,0.2);
+ right:300px;
+ top:60px;
+ position: absolute;
+ height: 220px;
 
 }
+h1{
+  font-family: aclonica, sans-serif;
+    color: #297268;
+}
+dt{  color: #297268;}
+header div{left: 60px;
+position: relative;
+top:50px;
+text-align: justify;
+}
+h2{
+  text-align: center;
+}
+section{
+  position: relative;
+  padding: 10px;
+}
+h3{padding-bottom: 10px;
+  padding-left: 20px;
+  border-bottom: 6px double #40A497;
+  color: #297268;
+
+}
+article{
+
+
+}
+a{text-decoration: none;}
