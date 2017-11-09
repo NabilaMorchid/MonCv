@@ -23,9 +23,8 @@
     <img src="images/nabila.PNG" alt="nabila Morchid"/>
     <table>
            <tr>
-             <td> 
-             <td> &nbsp;2, Rue des ArchivesArchives, Bâtiment C <br/>
-                       </td>
+            <td></td>
+             <td> &nbsp;2, Rue des ArchivesArchives, Bâtiment C                       </td>
 
            </tr>
            <tr>
@@ -33,7 +32,7 @@
                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N° 418, Cité universitaire Kergoat</td>
            </tr>
            <tr>
-           
+           <td></td>
              <td>&nbsp; nabila.morchid@gmail.com</td>
            </tr>
            <tr>
@@ -68,7 +67,7 @@
 
  <section>
    <article class="formation">
-     <img src="images/Formation.PNG" alt="Formation"/>
+     
      <h3>FORMATIONS</h3>
      <dl class="form">
        <dt class="date">2017-2018 : </dt>
@@ -95,7 +94,7 @@
 
  <section>
    <article class="projet">
-      <img src="images/projet.PNG" alt="Projets Informatiques"/>
+      
       <h3>PROJETS INFORMATIQUES</h3>
      <dl class="projet">
        <dt class="date">2017 : </dt>
@@ -115,7 +114,7 @@
 
 <section>
   <article class="exper">
-    <img src="images/experience.PNG" alt="Expériences professionnelles"/>
+    
     <h3>EXPERIENCES PROFESSIONNELLES</h3>
     <dl class="exper">
       <dt class="date">Juin 16-Août 16 : </dt>
@@ -133,7 +132,7 @@
 
 <section>
   <article class="comp">
-    <img src="images/competence.PNG" alt="compétences">
+   
     <h3>COMPETENCES</h3>
     <dl class="comp">
       <dt class="check">&#10004;</dt>
@@ -156,7 +155,7 @@
 
 <section>
   <article class="ctr">
-    <img src="images/Ctrinteret.PNG" alt="centre d'interets"/>
+    
     <h3>CENTRES D'INTERETS</h3>
     <dl class="ctr">
       <dt class="check">&#10004;</dt>
