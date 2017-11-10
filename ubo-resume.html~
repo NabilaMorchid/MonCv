@@ -11,7 +11,6 @@
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
 <link rel="stylesheet" href="css/resume.css"/>
-<link rel="stylesheet" href="/css/responsive.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <!--<script src="//use.edgefonts.net/aclonica.js"></script>-->
 
@@ -20,39 +19,24 @@
 </script>
 </head>
 <body>
-<div id="wrapper">
+
   <header>
-      <img src="images/nabila.PNG" alt="nabila Morchid"/>
-  <i class="icon-camera-retro">  <h1>Nabila MORCHID</h1></i>
-<table>
-    <tr>
-      <td></td>
-      <td>&nbsp;22 ans</td>
+ <div>  <i class="icon-camera-retro">  <h1>Nabila MORCHID</h1></i>
 
-    </tr>
-    <tr>
-      <td></td>
-      <td>&nbsp;Marocaine</td>
-    </tr>
-    <tr>
-      <td><i class="fa fa-phone-square fa-1g" aria-hidden="true"></i></td>
-      <td>&nbsp;0616366606</td>
-    </tr>
-    <tr>
-      <td><i class="fa fa-home fa-1g" aria-hidden="true"></i></td>
-    <td>&nbsp;2, Rue des Archives, Bâtiment C</td>
-<tr><td></td>    <td>&nbsp;&nbsp;&nbsp;  N° 418, Cité U Kergoat</td></tr>
+     <p><i class="fa fa-home fa-1g" aria-hidden="true"></i>
+       &nbsp;2, Rue des ArchivesArchives, Bâtiment C<br/>
+         &nbsp;&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;N° 418, Cité universitaire Kergoat<br/>
+         <i class="fa fa-envelope fa-1g" aria-hidden="true"></i>
 
-    </tr>
-    <tr>
-      <td><i class="fa fa-envelope fa-1g" aria-hidden="true"></i></td>
-      <td>&nbsp;nabila.morchid@gmail.com</td>
-    </tr>
-</table>
-
-          <h2><br/><br/>Elève Ingénieur en développement logiciel</h2>
+   &nbsp;nabila.morchid@gmail.com<br/>
+        &nbsp;<i class="fa fa-phone-square fa-1g" aria-hidden="true"></i>&nbsp;
+          0616366606<br/>
+      &nbsp;&nbsp;  &nbsp; &nbsp;&nbsp;22 ans<br/>
+      &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;Marocaine</p></div>
+        <img src="images/nabila.PNG" alt="nabila Morchid"/>
+          <h2><br/><br/>Ingénieur en développement logiciel</h2>
   </header>
-
+ <div id="wrapper">
 
 
 
@@ -186,9 +170,9 @@
 
 <footer class="RS">
 
-<a href="https://www.facebook.com/nabila.morchid"> <i class="fa fa-facebook-square" aria-hidden="true"></i>&nbsp;&nbsp;Facebook</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nabila-morchid-a2a792113/"> <i class="fa fa-linkedin-square" aria-hidden="true"></i>&nbsp;&nbsp;Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NabilaMorchid"><i class="fa fa-github-square" aria-hidden="true"></i>&nbsp;&nbsp;GitHub</a>
+<a href="https://www.facebook.com/nabila.morchid">  <i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Facebook</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nabila-morchid-a2a792113/">  <i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/NabilaMorchid"><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;GitHub</a>
 </footer>
 
 </div>
